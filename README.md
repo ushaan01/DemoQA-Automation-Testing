@@ -136,3 +136,9 @@ Skipped: 0 ⏭️
 
 Overall Result: 🟢 All test cases passed successfully
 
+
+✍️ Author
+
+👩‍💻 Usha Nazare
+
+Python Selenium Automation Tester | Mechanical Engineer Turned QA Professional
