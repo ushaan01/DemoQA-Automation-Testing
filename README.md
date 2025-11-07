@@ -5,15 +5,15 @@
 
 This is a Python Selenium automation project for DemoQA that demonstrates:
 
-Browser automation with Selenium
+1) Browser automation with Selenium
 
-Test organization using PyTest
+2) Test organization using PyTest
 
-Page Object Model (POM) structure
+3) Page Object Model (POM) structure
 
-Data-driven testing using Excel files
+4) Data-driven testing using Excel files
 
-The project automates the following DemoQA sections:
+Automated sections:
 
 Elements → Text Box
 
