@@ -111,3 +111,28 @@ DemoQA-
 🎚️ Slider
 
 | offset |
+
+
+📊 Test Execution Summary 
+
+| Test Module                   | Description                                                           | Status   |    Remarks|
+
+| 📝 Elements    | Verifies the Text Box form functionality — enters user details and validates output |  ✅ Passed |  Successfully submits and displays entered data   |
+
+| 🗂️ Forms      | Fills out and submits the DemoQA practice form using Excel-driven input          |  ✅ Passed |   Form fields populated and submitted successfully |
+
+| 🎚️ Widgets    | Moves slider to given offset values and verifies slider value                    |   ✅ Passed  | Slider moved to target offset successfully    |
+
+
+🧾 Summary Report:
+
+Total Test Cases Executed: 3
+
+Passed: 3 ✅
+
+Failed: 0 ❌
+
+Skipped: 0 ⏭️
+
+Overall Result: 🟢 All test cases passed successfully
+
