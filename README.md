@@ -20,3 +20,46 @@ Automated sections:
 2) Forms → Practice Form
 
 3) Widgets → Slide
+   
+
+📂 Project Structure 
+
+DemoQA-
+
+│
+
+├─ test_data/                  📄 Excel test data
+
+│   └─ test_data.xlsx 
+
+│
+
+├─ pages/                      🏷️ Page Object Models
+
+│   ├─ elements_page.py        # Text Box
+
+│   ├─ forms_page.py           # Form
+
+│   └─ widgets_page.py         # Slider
+
+│
+
+├─ test_cases/                 🧪 Test scripts
+
+│   ├─ test_elements_page.py
+
+│   ├─ test_forms_page.py
+
+│   └─ test_widgets_page.py
+
+│
+
+├─ utilities/                  ⚙️ Helper functions
+
+│   └─ read_excel.py   
+
+│
+
+├─ conftest.py                 🔧 PyTest setup
+
+└─ README.md                   📝 Documentation
