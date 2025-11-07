@@ -63,3 +63,21 @@ DemoQA-
 ├─ conftest.py                 🔧 PyTest setup
 
 └─ README.md                   📝 Documentation
+
+
+📝 Test Data
+
+ Stored in test_data/test_data.xlsx
+
+
+✏️ Elements
+
+| full_name | email | current_address | permanent_address |
+
+🗂️ Forms
+
+| first_name | last_name | email | mobile |
+
+🎚️ Slider
+
+| offset |
