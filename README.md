@@ -15,8 +15,8 @@ This is a Python Selenium automation project for DemoQA that demonstrates:
 
 Automated sections:
 
-Elements → Text Box
+1) Elements → Text Box
 
-Forms → Practice Form
+2) Forms → Practice Form
 
-Widgets → Slide
+3) Widgets → Slide
