@@ -64,6 +64,29 @@ DemoQA-
 
 └─ README.md                   📝 Documentation
 
+🛠️ Tools and Technologies
+
+| Category                 | Tool / Technology     | Purpose                                         |
+
+| Programming Language    | Python 3.x 🐍         | Core language for automation scripts            |
+
+| Automation Tool      | Selenium WebDriver 🌐 | Browser automation for DemoQA                   |
+
+| Testing Framework   | PyTest ✅              | Test execution, parameterization, and reporting |
+
+| Data Handling       | OpenPyXL 📄           | Read and handle Excel test data                 |
+
+| Browser             | Google Chrome 🌎      | Target browser for automation tests             |
+
+| WebDriver           | ChromeDriver 🛠️      | Bridge between Selenium and Chrome browser      |
+
+| IDE                  | PyCharm  | Development environment                         |
+
+| Version Control     | Git & GitHub 🔗       | Source code management and hosting              |
+
+|  Reporting   | pytest-html 📊        | HTML reports for test execution                 |
+
+
 
 📝 Test Data
 
