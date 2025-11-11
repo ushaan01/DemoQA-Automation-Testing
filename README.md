@@ -141,4 +141,6 @@ Overall Result: 🟢 All test cases passed successfully
 
 👩‍💻 Usha Nazare
 
+| Project Type           | Practice Project   |
+
 Python Selenium Automation Tester | Mechanical Engineer Turned QA Professional
